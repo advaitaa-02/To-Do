@@ -2,7 +2,7 @@
 # Tod-List App(Fullstack)
 
 This App is created using Django as backend and Vue.js as frontend.
-Restdul API concept is used to perform CRUD operations
+Restful API concept is used to perform CRUD operations
 
 
 ## Authors
